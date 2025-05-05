@@ -1,7 +1,8 @@
 # 💹 Financial News Analyzer with Transformers and XAI
 
 > This project is a comprehensive NLP pipeline designed to perform sentiment analysis on financial news across multiple languages. We integrated preprocessing, data augmentation, class balancing, multilingual modeling, and explainability — all packed into an interactive and easy-to-use interface.
-
+👉🏻 Try the App Here
+ https://lnkd.in/dkv5JuNA
 ---
 
 ## 🧠 Project Motivation
